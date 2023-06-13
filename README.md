@@ -1,4 +1,4 @@
-#BookLog ssms-SQL-Exercise
+# BookLog ssms-SQL-Exercise
 Exercise for my SQL course. Modeling books and a reading log.
 
 Querying for authors who have several books. Table Functions.
