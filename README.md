@@ -1,5 +1,5 @@
 # BookLog ssms-SQL-Exercise
-Exercise for my SQL course. A Relatinal Database modeling books and a reading log.
+Exercise for my SQL course. A Relational Database modeling books and a reading log.
 
 One highlight was importing data from a goodreads csv. I wrote some functions to look at authors with several books in my data. Some more functions I used to conveniently retrieve Ids or other data and a procedure deletes a user and all his data. 
 
