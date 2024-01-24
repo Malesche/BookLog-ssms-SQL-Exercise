@@ -1,4 +1,4 @@
-# BookLog ssms-SQL-Exercise
+# BookLog - SQL Exercise with SQL Server Management Studio (SSMS)
 A Relational Database modeling books and a reading log. Exercise for my one month long Database and SQL course.
 
 One highlight was importing data from a goodreads csv. I wrote some functions to look at authors with several books in my data. Some more functions I used to conveniently retrieve Ids or other data and a procedure deletes a user and all their data. 
